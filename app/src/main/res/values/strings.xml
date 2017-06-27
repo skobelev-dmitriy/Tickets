@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Пыль да Рок</string>
+    <string name="login.button.scan">Сканировать билет</string>
+    <string name="login.button.choose">Выбрать вручную</string>
+    <string name="login.title">Вход</string>
+    <string name="login.error.emptyfield">Это поле необходимо заполнить</string>
+    <string name="login.error.wrong_email">Некорректный адрес email</string>
+    <string name="login.error.fail">"Не удалось войти в аккаунт"</string>
+    <string name="logoutdialog">Вы хотите выйти из аккаунта?</string>
+
+
+    <string name="dialog.ok">Да</string>
+    <string name="dialog.no">Нет</string>
+    <string name="dialog.cancel">Отмена</string>
+    <string name="dialog.save">Сохранить изменения?</string>
+    <string name="dialog.loading">Загрузка...</string>
+
+    <string name="toast.noconnection">Проверьте подключение к Интернету</string>
+    <string name="toast.nodata">Не удалось получить данные</string>
+    <string name="toast.fileerror">Не удалось получить путь к файлу</string>
+    <string name="toast.operationfailed">Синхронизация не удалась: </string>
+    <string name="toast.unabletosend">Не удалось отправить данные на сервер</string>
+
+    <string name="dialog.material.ok">Ok</string>
+    <string name="dialog.material.delete">Удалить</string>
+    <string name="dialog.material.edit">Редактировать</string>
+
+    <array name="warehouse">
+        <item>Центральный</item>
+        <item>Склад №1</item>
+        <item>Склад №2</item>
+        <item>Склад №3</item>
+    </array>
+    <array name="warehouse_code">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </array>
+</resources>
